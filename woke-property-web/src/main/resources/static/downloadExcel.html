@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function testUpload(){
+            var form = new FormData(document.getElementById("test"));
+
+            $.ajax({
+                url : url,
+                data : form,
+                type : 'post',
+                processData:false,
+                contentType:false,
+                success : function(data){
+                    alert("成功");
+                },
+                error : function(data){
+
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+<form action="/web/v1/test/readExcel" method="post" style="margin-left:300px;" enctype="multipart/form-data">
+    <div style="margin: 30px;"></div>
+    <input id="excel_file" type="file" name="excelFile" size="50"/>
+    <input type="submit" value="提交"/>
+</form>
+<iframe name="result" id="result" src="about:blank" frameborder="0" width="0" height="0"></iframe>
+</body>
+</html>

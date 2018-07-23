@@ -1,0 +1,9 @@
+
+
+2018-07-03 17:15:36,540 INFO (StartupInfoLogger.java:50)- Starting WokePropertyWebApplication on DESKTOP-LJRUK8C with PID 13820 (E:\woke-property\woke-property-web\target\classes started by yangl in E:\woke-property)
+2018-07-03 17:15:36,543 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-03 17:15:39,108 INFO (StartupInfoLogger.java:59)- Started WokePropertyWebApplication in 2.956 seconds (JVM running for 3.401)
+2018-07-03 17:15:59,372 INFO (TestWeb.java:27)- 打印日志
+2018-07-03 17:16:09,353 INFO (TestWeb.java:27)- 打印日志
+2018-07-03 17:16:10,256 INFO (TestWeb.java:27)- 打印日志
+2018-07-03 17:16:10,927 INFO (TestWeb.java:27)- 打印日志

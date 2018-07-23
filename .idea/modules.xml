@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/woke-property.iml" filepath="$PROJECT_DIR$/woke-property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-common/woke-property-common.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-common/woke-property-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-dao/woke-property-dao.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-dao/woke-property-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-facade/woke-property-facade.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-facade/woke-property-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-manager/woke-property-manager.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-manager/woke-property-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-service/woke-property-service.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-service/woke-property-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../woke-property/woke-property-web/woke-property-web.iml" filepath="$PROJECT_DIR$/../woke-property/woke-property-web/woke-property-web.iml" />
+    </modules>
+  </component>
+</project>

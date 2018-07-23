@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="woke-property-web:war">
+    <output-path>$PROJECT_DIR$/../woke-property/woke-property-web/target</output-path>
+    <root id="archive" name="woke-property.war">
+      <element id="artifact" artifact-name="woke-property-web:war exploded" />
+    </root>
+  </artifact>
+</component>
